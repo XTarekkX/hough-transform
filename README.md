@@ -49,8 +49,8 @@ An **accumulator array** is used to vote for potential (ρ, θ) values. The valu
 
 ## 🖼️ Example Output
 
-| Original Image | Edge Detection + ROI | Final Lane Detection |
-|----------------|----------------------|-----------------------|
+| Edge Detection + ROI | Final Lane Detection |
+|----------------------|-----------------------|
 | ![edges](example_edges.png) | ![final](example_lanes.png) |
 
 ---
@@ -70,7 +70,4 @@ An **accumulator array** is used to vote for potential (ρ, θ) values. The valu
 
 ┣ 📓 hough_lane_detection.ipynb ← Main notebook with implementation
 
-┣ 📁 inputs/ ← Test images
-
-┣ 📁 outputs/ ← Lane detection results
 
