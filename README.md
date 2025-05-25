@@ -51,7 +51,7 @@ An **accumulator array** is used to vote for potential (ρ, θ) values. The valu
 
 | Original Image | Edge Detection + ROI | Final Lane Detection |
 |----------------|----------------------|-----------------------|
-| ![original](example_original.jpg) | ![edges](example_edges.jpg) | ![final](example_lanes.jpg) |
+| ![original](example_original.jpg) | ![edges](example_edges.png) | ![final](example_lanes.jpg) |
 
 ---
 
